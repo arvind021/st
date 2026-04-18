@@ -1,0 +1,16 @@
+# Credentials — NEVER commit these
+.env
+
+# Pyrogram session files
+*.session
+*.session-journal
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
